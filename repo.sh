@@ -83,5 +83,5 @@ git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/website
 git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/contract.git OCA-contract
 cd ~/server/sourcessources
 find . -name "oca_dependencies.txt" -type f -delete
-cd ~/server/sources
+cd ~/server/
 ./maintainer-quality-tools/travis/clone_oca_dependencies sources/ .
