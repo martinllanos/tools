@@ -1,6 +1,6 @@
 rm -rf ~/server/11/sources
 mkdir ~/server/11/sources
-cd ~/server/11/
+cd ~/server/11/tools
 sh repo-adhoc.sh
 sh repo-oca.sh
 cd ~/server/11/sources
