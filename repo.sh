@@ -8,3 +8,4 @@ find . -name "oca_dependencies.txt" -type f -delete
 cd ~/server/11
 touch oca_dependencies.txt
 ./maintainer-quality-tools/travis/clone_oca_dependencies sources/ .
+find ~/server/11/sources -mindepth 1 -maxdepth 1 -type d | sort | tr '\n' ','

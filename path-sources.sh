@@ -1,1 +1,1 @@
-find /home/odoo/odoo/11/sources/ -mindepth 1 -maxdepth 1 -type d | sort | tr '\n' ','
+find ~/server/11/sources -mindepth 1 -maxdepth 1 -type d | sort | tr '\n' ','
