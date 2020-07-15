@@ -16,6 +16,7 @@ git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/ddmrp.g
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/delivery-carrier.git OCA-delivery-carrier
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/e-commerce.git OCA-e-commerce
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/event.git OCA-event
+git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/field-service.git OCA-field-service
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/hr-timesheet.git OCA-hr-timesheet
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/hr.git OCA-hr
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/knowledge.git OCA-knowledge
