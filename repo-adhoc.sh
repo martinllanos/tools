@@ -22,10 +22,10 @@ git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/re
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/sale.git ingadhoc-sale
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/stock.git ingadhoc-stock
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/website.git ingadhoc-website
-cd ~/server/12/sources
-find . -name "oca_dependencies.txt" -type f -delete
-cd ~/server/12/
-sources bin/activate
-cd ~/server/12
-./maintainer-quality-tools/travis/clone_oca_dependencies sources/ .
-find ~/server/12/sources -mindepth 1 -maxdepth 1 -type d | sort | tr '\n' ','
+#cd ~/server/12/sources
+#find . -name "oca_dependencies.txt" -type f -delete
+#cd ~/server/12/
+#sources bin/activate
+#cd ~/server/12
+#./maintainer-quality-tools/travis/clone_oca_dependencies sources/ .
+#find ~/server/12/sources -mindepth 1 -maxdepth 1 -type d | sort | tr '\n' ','
