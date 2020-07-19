@@ -1,3 +1,4 @@
+mkdir ~/server/13/sources
 cd ~/server/13/tools
 sh repo-adhoc.sh
 sh repo-oca.sh
