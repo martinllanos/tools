@@ -7,6 +7,7 @@ git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/account
 git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/account-payment.git OCA-account-payment
 #git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/apps-store.git OCA-apps-store
 git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/bank-payment.git OCA-bank-payment
+git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/business-requirement.git OCA-business-requirement
 #git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/calendar.git OCA-calendar
 #git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/commission.git OCA-commission
 git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/credit-control.git OCA-credit-control
