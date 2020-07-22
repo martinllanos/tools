@@ -1,5 +1,3 @@
-rm -rf ~/server/12/sources
-mkdir ~/server/12/sources
 cd ~/server/12/tools
 sh repo-adhoc.sh
 sh repo-oca.sh
