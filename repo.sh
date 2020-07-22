@@ -3,6 +3,8 @@ mkdir ~/server/12/sources
 cd ~/server/12/tools
 sh repo-adhoc.sh
 sh repo-oca.sh
+sh repo-itpp-labs.sh
+sh repo-regaby.sh
 #sh repo-crumges.sh
 cd ~/server/12/sources
 find . -name "oca_dependencies.txt" -type f -delete
