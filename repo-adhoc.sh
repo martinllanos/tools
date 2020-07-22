@@ -11,7 +11,6 @@ git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/mi
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/multi-company.git ingadhoc-multi-company
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/multi-store.git ingadhoc-multi-store
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/odoo-argentina.git ingadhoc-odoo-argentina
-git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/odoo-argentina-ce.git ingadhoc-odoo-argentina-ce
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/odoo-support.git ingadhoc-odoo-support
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/partner.git ingadhoc-partner
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/patches.git ingadhoc-patches

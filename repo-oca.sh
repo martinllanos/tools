@@ -8,7 +8,7 @@ git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/account
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/apps-store.git OCA-apps-store
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/bank-payment.git OCA-bank-payment
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/business-requirement.git OCA-business-requirement
-git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/calendar.git OCA-calendar
+#git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/calendar.git OCA-calendar
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/commission.git OCA-commission
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/credit-control.git OCA-credit-control
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/crm.git OCA-crm
@@ -33,9 +33,9 @@ git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/operati
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/partner-contact.git OCA-partner-contact
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/pos.git OCA-pos
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/product-attribute.git OCA-product-attribute
+git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/product-pack.git OCA-product-pack
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/product-variant.git OCA-product-variant
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/project-reporting.git OCA-project-reporting
-git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/project-service.git OCA-project-service
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/project.git OCA-project
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/purchase-workflow.git OCA-purchase-workflow
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/queue.git OCA-queue
@@ -56,7 +56,7 @@ git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/stock-l
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/timesheet.git OCA-timesheet
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/vertical-association.git OCA-vertical-association
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/web.git OCA-web
-git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/website-themes.git OCA-website-themes
+#git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/website-themes.git OCA-website-themes
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/website.git OCA-website
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/contract.git OCA-contract
 #cd ~/server/12/sources
