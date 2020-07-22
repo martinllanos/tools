@@ -33,6 +33,7 @@ git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/operati
 git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/partner-contact.git OCA-partner-contact
 #git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/pos.git OCA-pos
 git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/product-attribute.git OCA-product-attribute
+git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/product-pack.git OCA/product-pack
 #git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/product-variant.git OCA-product-variant
 git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/project-reporting.git OCA-project-reporting
 git clone --depth 1 --branch 13.0 --single-branch https://github.com/OCA/project.git OCA-project
