@@ -48,12 +48,12 @@ sed -i 's/8.0/11.0/g' ./maintainer-quality-tools/travis/clone_oca_dependencies
 ## Generando archivo conf
 `odoo/odoo-bin -c odoo.conf -s --stop-after-init --db_host=localhost --db_user=odoo --db_password=odoo`
 ## Creando estructura para repositorio cliente
-*`cd /home/odoo/server/12`
-*`git clone -b 12.0 https://github.com/marionumza/tools.git`
-*`mkdir clientes`
-*`cd /home/odoo/server/12/clientes`
-*`git clone -b 12.0 [repositorio del cliente] [nombre del cliente sin el prefijo cli]`
-*`cd /home/odoo/server/12/clientes/[repositorio del cliente]/tools/repo.sh`
+* `cd /home/odoo/server/12`
+* `git clone -b 12.0 https://github.com/marionumza/tools.git`
+* `mkdir clientes`
+* `cd /home/odoo/server/12/clientes`
+* `git clone -b 12.0 [repositorio del cliente] [nombre del cliente sin el prefijo cli]`
+* `cd /home/odoo/server/12/clientes/[repositorio del cliente]/tools/repo.sh`
 ## Copiar el path en el archivo conf
 
 Una ves terminada la instalación copiar el path que quedo en la terminal, en el archivo conf y luego levantar odoo 
