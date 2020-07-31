@@ -2,4 +2,4 @@
 ##
 ## Actualiza sistema
 
-'sudo add-apt-repository universe && sudo apt-get update && sudo apt-get upgrade'
+`sudo add-apt-repository universe && sudo apt-get update && sudo apt-get upgrade`
