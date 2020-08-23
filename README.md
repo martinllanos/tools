@@ -44,7 +44,7 @@
 ## Herramienta de actualizacion de repositorios
 * cd /home/odoo/server/12
 * git clone https://github.com/OCA/maintainer-quality-tools.git
-* sed -i 's/8.0/11.0/g' ./maintainer-quality-tools/travis/clone_oca_dependencies
+* sed -i 's/8.0/12.0/g' ./maintainer-quality-tools/travis/clone_oca_dependencies
 ## Generando archivo conf
 * `odoo/odoo-bin -c odoo.conf -s --stop-after-init --db_host=localhost --db_user=odoo --db_password=odoo`
 ## Creando estructura para repositorio cliente
