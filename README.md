@@ -41,6 +41,7 @@
 ## Clonando e instalando ODOO 
 * `git clone --depth 1 --branch 12.0 --single-branch https://www.github.com/odoo/odoo`
 * `pip3 install -r odoo/requirements.txt`
+* `pip3 install -r odoo/doc/requirements.txt`
 ## Herramienta de actualizacion de repositorios
 * cd /home/odoo/server/12
 * git clone https://github.com/OCA/maintainer-quality-tools.git
